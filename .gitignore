@@ -1,0 +1,8 @@
+.project
+.settings/
+.classpath
+target/
+dependency-reduced-pom.xml
+.DS_Store
+*.iml
+derby.log
